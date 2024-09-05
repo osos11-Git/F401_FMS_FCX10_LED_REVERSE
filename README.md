@@ -39,9 +39,9 @@ int fms_led[9] = { // 1: HIGH, 0: LOW
  ```  
 LED Driver is FLYSKY FS-DB01.
 
-3in1 ESC (ESC+Receiver+LED Drive Signal) is ![FS-R11D-ESC-BS](https://www.flysky-cn.com/fsr11descbsspecification).
+3in1 ESC (ESC+Receiver+LED Drive Signal) is [FS-R11D-ESC-BS](https://www.flysky-cn.com/fsr11descbsspecification).
 
-Transmitter is ![FS-MG11-BS](https://www.flysky-cn.com/fsg4pbsspecification-copy).
+Transmitter is [FS-MG11-BS](https://www.flysky-cn.com/fsg4pbsspecification-copy).
 
 # CubeMX configs:
 ![alt text](https://github.com/osos11-Git/F401_FMS_FCX10_LED_REVERSE/blob/main/pics/cubemx_pin.png)
