@@ -37,7 +37,7 @@ int fms_led[9] = { // 1: HIGH, 0: LOW
 		0  // always must be LOW
 };
  ```  
-LED Driver is FLYSKY FS-DB01.
+LED Driver is FLYSKY [FS-DB01](https://www.flysky-cn.com/fsdb01specification).
 
 3in1 ESC (ESC+Receiver+LED Drive Signal) is [FS-R11D-ESC-BS](https://www.flysky-cn.com/fsr11descbsspecification).
 
